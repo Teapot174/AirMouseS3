@@ -15,3 +15,8 @@ Connect to the AirStick Bluetooth hotspot and use.
 BUTTON A — LMB
 
 BUTTON B — Freezes movement to straighten the stick if the cursor moves.
+
+## Pictures
+![BOOT](pictures/boot.jpg)
+![CONNECT](pictures/connect.jpg)
+![FINAL](pictures/final.jpg)
