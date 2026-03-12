@@ -1,5 +1,5 @@
 # AirMouseS3
-![GIF](demo.gif)
+![GIF](pictures/demo.gif)
 
 ## About
 A computer mouse that uses a gyroscope and accelerometer, based on the StickS3.
