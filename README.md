@@ -22,3 +22,9 @@ BUTTON B — Freezes movement to straighten the stick if the cursor moves.
 ![BOOT](pictures/boot.jpg)
 ![CONNECT](pictures/connect.jpg)
 ![FINAL](pictures/final.jpg)
+
+## Build ([esptool.exe](https://github.com/espressif/esptool/releases/tag/v5.2.0))
+
+```
+esptool.exe --chip esp32s3 merge_bin -o AirMouseS3.bin 0x0 bootloader.bin 0x8000 partitions.bin 0x10000 firmware.bin
+```
